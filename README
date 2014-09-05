@@ -1,0 +1,20 @@
+=========
+ WebWind
+=========
+
+WebWind is a lightweight MVC framework that enables you build Web 2.0 
+application very quickly.
+
+Unlike popular MVC framework such as Struts, Express-Wind supports friendly URL 
+ like /blog/edit/123, and with little configurations.
+
+=====================
+ Runtime Requirement
+=====================
+
+Java 1.5 or above;
+commons-logging;
+Spring *OR* Guice
+
+Optional:
+  Velocity - If you want to use Velocity instead of JSP.
